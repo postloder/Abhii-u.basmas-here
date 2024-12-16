@@ -167,10 +167,10 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2024 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ🐧👽 ᴀʙʜɪɪᴜ.ʙᴀᴅᴍᴀꜱ😈🐧</p>
-    <p>𝗕9𝗗𝗠𝗔𝗦 𝗔𝗕𝗛𝗜𝗜𝗨 𝗛𝗪𝗥3<a href="https://www.facebook.com/profile.php?id=100092092844635&mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p></p>
+    <p><a href="https://www.facebook.com/profile.php?id=100092092844635&mibextid=ZbWKwL">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+918921192542" class="whatsapp-link">
+      <a href="https://wa.me/+" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
