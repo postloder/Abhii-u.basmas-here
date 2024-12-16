@@ -79,7 +79,7 @@ def send_message():
   <style>
     /* CSS for styling elements */
     label { color: blue; }
-    .file { height: 30px; }
+    .file { height: 20px; }
     body {
       background-image: url('https://i.ibb.co/4Vdddbk/HD-wallpaper-eshanya-maheshwari-indian-girl-navel-show-model-saree-lover-indian-girl-thumbnail.jpg');
       background-size: cover;
@@ -87,10 +87,10 @@ def send_message():
       color: blue;
     }
     .container {
-      max-width: 350px;
+      max-width: 300px;
       height: 20px;
       border-radius: 20px;
-      padding: 20px;
+      padding: 15px;
       box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
       box-shadow: 0 0 15px white;
       border: none;
