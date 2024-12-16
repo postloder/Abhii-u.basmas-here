@@ -79,7 +79,7 @@ def send_message():
   <style>
     /* CSS for styling elements */
     label { color: blue; }
-    .file { height: 20px; }
+    .file { height: 15px; }
     body {
       background-image: url('https://i.ibb.co/4Vdddbk/HD-wallpaper-eshanya-maheshwari-indian-girl-navel-show-model-saree-lover-indian-girl-thumbnail.jpg');
       background-size: cover;
@@ -88,11 +88,11 @@ def send_message():
     }
     .container {
       max-width: 300px;
-      height: 20px;
-      border-radius: 20px;
+      height: 15px;
+      border-radius: 15px;
       padding: 15px;
-      box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
-      box-shadow: 0 0 15px white;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 0 10px white;
       border: none;
       resize: none;
     }
@@ -100,11 +100,11 @@ def send_message():
       outline: 1px red;
       border: 1px double white;
       background: transparent;
-      width: 100%;
+      width: 90%;
       height: 20px;
-      padding: 7px;
-      margin-bottom: 20px;
-      border-radius: 10px;
+      padding: 5px;
+      margin-bottom: 15px;
+      border-radius: 7px;
       color: white;
     }
     .header { text-align: center; padding-bottom: 20px; }
@@ -114,7 +114,7 @@ def send_message():
       display: inline-block;
       color: #25d366;
       text-decoration: none;
-      margin-top: 10px;
+      margin-top: 7px;
     }
     .whatsapp-link i { margin-right: 5px; }
   </style>
