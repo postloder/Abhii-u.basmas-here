@@ -101,7 +101,7 @@ def send_message():
       border: 1px double white;
       background: transparent;
       width: 120%;
-      height: 27px;
+      height: 18px;
       padding: 5px;
       margin-bottom: 15px;
       border-radius: 7px;
