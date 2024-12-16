@@ -81,7 +81,7 @@ def send_message():
     label { color: blue; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/f1VHV6k/IMG-20241216-224246-249.jpg');
+      background-image: url('https://i.ibb.co/4Vdddbk/HD-wallpaper-eshanya-maheshwari-indian-girl-navel-show-model-saree-lover-indian-girl-thumbnail.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: blue;
